@@ -2,7 +2,7 @@
   "users":[
     {"id":1, "email":"moira@technopathsolutions.com", "first_name":"moira", "last_name":"abc", "password":"pass123"},
     {"id":2, "email":"paul@technopathsolutions.com", "first_name":"paul", "last_name":"def", "password":"pass456"},
-    {"id":3, "email":"yveth@technopathsolutions.com", "first_name":"yveth", "last_name":"ghi", "password":"pass789"},
+    {"id":3, "email":"yveth@technopathsolutions.com", "first_name":"yveth", "last_name":"ghi", "password":"pass789"}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
